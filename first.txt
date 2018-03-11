@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 first test
+=======
+first
+>>>>>>> 93941a2f9cb02ff29d94590e5ad81407d7a153bf
+second test
